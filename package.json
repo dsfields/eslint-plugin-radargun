@@ -2,7 +2,7 @@
   "name": "eslint-plugin-radargun",
   "longName": "eslint-plugin-radargun",
   "description": "ESLint plugin that adds an environment for the radargun benchmarking utility.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "dependencies": {},
   "devDependencies": {
     "eslint": "^4.9.0",
