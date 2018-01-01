@@ -4,7 +4,7 @@ Adds an environment to ESLint for the [`radargun`](https://www.npmjs.com/package
 
 ## Usage
 
-Install the plugin as a `devDependency`:
+Install the plugin under `devDependencies`:
 
 ```sh
 $ npm install eslint-plugin-radargun -D
