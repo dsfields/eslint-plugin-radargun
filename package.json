@@ -1,0 +1,35 @@
+{
+  "name": "eslint-plugin-radargun",
+  "longName": "eslint-plugin-radargun",
+  "description": "ESLint plugin that adds an environment for the radargun benchmarking utility.",
+  "version": "1.0.0",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^4.9.0",
+    "eslint-config-airbnb": "^16.1.0",
+    "eslint-plugin-import": "^2.7.0",
+    "eslint-plugin-jsx-a11y": "^6.0.2",
+    "eslint-plugin-react": "^7.4.0"
+  },
+  "keywords": [
+    "benchmark",
+    "performance",
+    "speed",
+    "analysis",
+    "test",
+    "eslint",
+    "plugin",
+    "radargun",
+    "environment"
+  ],
+  "license": "MIT",
+  "main": "./",
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dsfields/eslint-plugin-radargun"
+  },
+  "scripts": {
+    "lint": "eslint ./*"
+  }
+}
