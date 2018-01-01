@@ -16,7 +16,10 @@ Add an `.eslintrc` file to the directory that contains all of your `radargun` be
 {
   "env": {
     "radargun/bin": true
-  }
+  },
+  "plugins": [
+    "radargun"
+  ]
 }
 ```
 
